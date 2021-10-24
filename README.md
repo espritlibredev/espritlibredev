@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @espritlibredev
-- 👀 I’m interested in code, crypto
-- 🌱 I’m currently learning Nodes.js/React, Scala
+- 👋 Hi, I’m @espritlibredev, Micaël
+- 👀 I’m interested in coding, reading, biking
+- 🌱 I’m currently learning Node.js/React, Scala
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: keybase.io/espritlibredev
+- 📫 How to reach me: [Keybase chat](keybase://chat/espritlibredev)
 
 <!---
 espritlibredev/espritlibredev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
