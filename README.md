@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, reading, biking
 - 🌱 I’m currently learning Node.js/React, Scala
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: [Keybase chat](keybase://chat/espritlibredev)
+- 📫 How to reach me: keybase.io/espritlibredev
 
 <!---
 espritlibredev/espritlibredev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
